@@ -54,7 +54,7 @@
             </div>
         </section>
     </div>
-<h2 class="gallery-title">तुम्हारे साथ गुजारे हुए कुछ खूबसूरत पल❣️</h2>
+<h2 class="gallery-title">तुम्हारे साथ गुजारे हुए कुछ खूबसूरत पल</h2>
 <div class="image-container">
     <img src="Mahiansh2.jpg" alt="Pal" style="width: 100%; max-width: 300px; display: block; margin: 10px auto;">
     <img src="Mahiansh1.jpg" alt="Pal" style="width: 100%; max-width: 300px; display: block; margin: 10px auto;">
@@ -69,11 +69,12 @@
     </script>
 </body>
 </html>
+
 <div class="shayari-container" style="text-align: center; margin: 20px; padding: 15px; font-family: 'Dancing Script', cursive; font-size: 1.2rem; color: #d63384;">
     <p>ये शायरी स्पेशली आपके लिए, जिसे मैंने खुद लिखा है:</p>
-    <p><em>"तमन्ना है तुझे पाने की,<br>
+    <p><em>
+"कि तमन्ना है तुझे पाने की,<br>
     जमाने से छुपके ख़्वाबों में अपनाने की...<br>
     अगर नहीं लिखा होगा तेरा मिलना किस्मत में,<br>
     तो मैं कहूंगा खुदा से, फिर दे एक मौका मुझे अपनी किस्मत फिर आजमाने की..."</em></p>
 </div>
-
